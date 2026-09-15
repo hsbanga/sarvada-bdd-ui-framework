@@ -122,4 +122,4 @@ screenshots as build artifacts. Credentials are injected from repository secrets
 
 ## License
 
-Copyright Sarvada Infotech. All rights reserved.
+Released under the [MIT License](LICENSE). Copyright (c) 2026 Sarvada Infotech.

@@ -12,6 +12,13 @@
   <description>Cucumber 7 + Selenium 4 + TestNG web UI automation framework with page objects, layered config and parallel execution.</description>
   <url>https://github.com/hsbanga/sarvada-bdd-ui-framework</url>
 
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://opensource.org/licenses/MIT</url>
+    </license>
+  </licenses>
+
   <properties>
     <maven.compiler.release>21</maven.compiler.release>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
